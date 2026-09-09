@@ -8,4 +8,5 @@ new_blance = blance-withdraw_amt
 print("Intial Balance: ", intial_balance)
 print("Amount to Deposit: ", deposit)
 print("your balance is :", blance)  
+print("withdraw: ",withdraw_amt)
 print("your new blanvce: ",new_blance)
